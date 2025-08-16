@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Shinde</h1>
 <p align="center">AI & ML engineering student | Full-stack Python developer | From India.</p>
 
+
 ## About Me
 I'm a final-year *AI & ML Engineering* student at VSM Institute of Technology with a *CGPA of 8.93*.  
 I've strong foundation in programming, data structures, data analyst. I have hands-on experience through academic projects and lab work, and I am passionate about AI, robotics and software development. I am a quick learner, team-oriented, and eager to apply my skills in real-world industry settings through internships or collaborative projects.
@@ -8,7 +9,6 @@ I've strong foundation in programming, data structures, data analyst. I have han
 I am highly adaptable professional with the ability to quickly master new technologies and contribute effectively to assigned projects and tasks.
 I'm excited to leverage my academic background and technical expertise to contribute to impactful, real-world technology challenges.
 
----
 
 ## 🛠 Tech Stack   
 
@@ -30,7 +30,6 @@ I'm excited to leverage my academic background and technical expertise to contri
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
----
 
 ## 🌐 Socials  
 
@@ -39,5 +38,4 @@ I'm excited to leverage my academic background and technical expertise to contri
 [![Xcelerator](https://img.shields.io/badge/-Xcelerator-0052CC?style=for-the-badge&logo=vintage-computer&logoColor=white)](https://vtu.xcelerator.co.in/profile/yashshinde570%40gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashx.in?igsh=c3JiN3M0ZnNvc3pu&utm_source=qr)  
 
----
 
