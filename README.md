@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Shinde</h1>
 <p align="center">AI & ML engineering student | Full-stack Python developer | From India.</p>
 
----
-
 ## About Me
 I'm a final-year *AI & ML Engineering* student at VSM Institute of Technology with a *CGPA of 8.93*.  
 I've strong foundation in programming, data structures, data analyst. I have hands-on experience through academic projects and lab work, and I am passionate about AI, robotics and software development. I am a quick learner, team-oriented, and eager to apply my skills in real-world industry settings through internships or collaborative projects.
