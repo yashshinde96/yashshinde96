@@ -8,7 +8,7 @@ I've strong foundation in programming, data structures, data analyst. I have han
 
 I am highly adaptable professional with the ability to quickly master new technologies and contribute effectively to assigned projects and tasks.
 I'm excited to leverage my academic background and technical expertise to contribute to impactful, real-world technology challenges.
-
+<br>
 
 ## 🛠 Tech Stack   
 
@@ -30,7 +30,7 @@ I'm excited to leverage my academic background and technical expertise to contri
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-
+<br>
 ## 🌐 Socials  
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashshinde570@gmail.com)
