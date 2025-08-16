@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Shinde</h1>
-<p align="center">AI & ML engineering student | Full-stack Python developer | From India.</p>
-<p align="center">A passionate AI & ML engineering student and web developer from India</p>
+<h3><p align="center">AI & ML engineering student | Full-stack Python developer | From India.</p></h3>
 
 
 ## About Me
