@@ -4,7 +4,7 @@
 
 ## About Me
 I'm a Computer Science and Engineering(AI & ML) Graduate student from VSM Institute of Technology with a *CGPA of 9.14*.  
-I've strong foundation in Python programming, software development, data analyst. I have hands-on experience through academic projects and lab work, and I am passionate about AI, robotics and software development. I am a quick learner, team-oriented, and eager to apply my skills in real-world industry settings through internships or collaborative projects.
+I've strong foundation in Python programming, software development, data analyst. I have hands-on experience through academic projects and lab work, and I am passionate about AI, data analyst and software development. I am a quick learner, team-oriented, and eager to apply my skills in real-world industry settings through internships or collaborative projects.
 
 I am highly adaptable professional with the ability to quickly master new technologies and contribute effectively to assigned projects and tasks.
 I'm excited to leverage my academic background and technical expertise to contribute to impactful, real-world technology challenges.
@@ -57,6 +57,12 @@ I'm excited to leverage my academic background and technical expertise to contri
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Excel-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-PowerBI-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
 </p>
 
