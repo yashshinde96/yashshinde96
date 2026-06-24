@@ -18,6 +18,12 @@ I'm excited to leverage my academic background and technical expertise to contri
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</a>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -58,18 +64,7 @@ I'm excited to leverage my academic background and technical expertise to contri
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Excel-EE4C2C?style=for-the-badge&logo=excel&logoColor=green" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-PowerBI-EE4C2C?style=for-the-badge&logo=powerbi&logoColor=yellow" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</a>
+ 
 </p>
 
 
