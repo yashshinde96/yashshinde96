@@ -59,10 +59,10 @@ I'm excited to leverage my academic background and technical expertise to contri
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Excel-EE4C2C?style=for-the-badge&logo=excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-EE4C2C?style=for-the-badge&logo=excel&logoColor=green" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-PowerBI-EE4C2C?style=for-the-badge&logo=powerbi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerBI-EE4C2C?style=for-the-badge&logo=powerbi&logoColor=yellow" />
   </a>
 </p>
 
