@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Shinde</h1>
-<h3><p align="center">B.E. in CSE(AI & ML) | Python developer and Data Analyst | From India.</p></h3>
+<h3><p align="center">B.E. in CSE(AI & ML) | Data Analyst and Python developer | From India.</p></h3>
 
 
 ## About Me
