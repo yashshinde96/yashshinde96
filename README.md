@@ -60,8 +60,8 @@ I'm excited to leverage my academic background and technical expertise to contri
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
 </p>
 
